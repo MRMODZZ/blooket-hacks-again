@@ -7,5 +7,6 @@ Cheats that change the game
 # Todo
 - [ ] Custom tower defense maps
 ## List of Cheats
-
-W.I.P.
+[^1]: [CoderQCFromScraatch](https://github.com/CoderQCFromScraatch)
+### [Crypto Hack](obfuscated/crypto/)
+ * [Always Triple](obfuscated/crypto/alwaysQuintupleCrypto.js)[^1]<br>
