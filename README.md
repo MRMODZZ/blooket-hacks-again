@@ -9,4 +9,4 @@ Cheats that change the game
 ## List of Cheats
 [^1]: [CoderQCFromScraatch](https://github.com/CoderQCFromScraatch)
 ### [Crypto Hack](obfuscated/crypto/)
- * [Always Triple](obfuscated/crypto/alwaysQuintupleCrypto.js)[^1]<br>
+ * [Always Quintuple](obfuscated/crypto/alwaysQuintupleCrypto.js)[^1]<br>
