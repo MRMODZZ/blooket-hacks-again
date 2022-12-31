@@ -12,4 +12,4 @@ Cheats that change the game
 ### [Global](obfuscated/global/)
  * [Dark Mode](obfuscated/global/darkMode.js)[^1]<br>
 ### [Crypto Hack](obfuscated/crypto/)
- * [Always Triple](obfuscated/crypto/alwaysQuintupleCrypto.js)[^2]<br>
+ * [Always Quintuple](obfuscated/crypto/alwaysQuintupleCrypto.js)[^1]<br>
