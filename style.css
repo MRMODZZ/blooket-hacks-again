@@ -59,7 +59,7 @@
     text-align: center;
     margin-inline: auto;
     background-color: #b624ff;
-    width: 120px;
+    min-width: 120px;
     line-height: 22.5px;
     border-radius: 6px;
     color: white;
